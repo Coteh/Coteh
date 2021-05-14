@@ -3,7 +3,6 @@
 I'm James, and I'm a recently graduated Computer Science student from University of Guelph. I'm currently working as a Software Developer at [TimePlay](https://www.timeplay.com/).
 
 - 😄 Pronouns: he/him
-- 🌱 As I've just started at TimePlay, I'm currently focusing on getting onboarded.   
 - 🔭 I’ve also been working on maintaining an open source Atom extension that queries [SyntaxDB](https://syntaxdb.com/) API, you can check it out [here](https://github.com/Coteh/syntaxdb-atom-plugin).
 - 👯 I've also contributed to the [short](https://github.com/short-d/short) open-source project.
 
